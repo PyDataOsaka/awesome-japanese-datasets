@@ -18,4 +18,4 @@
 
 ## 地理情報
 
-- [統計GIS](https://www.e-stat.go.jp/gis)
+- [地図で見る統計(統計GIS)](https://www.e-stat.go.jp/gis)
