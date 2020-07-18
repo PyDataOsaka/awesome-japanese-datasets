@@ -10,6 +10,7 @@
 
 - [貿易収支のデータなど](https://www.customs.go.jp/toukei/info/index.htm)
 - [家計調査](http://www.stat.go.jp/data/kakei/)
+- [Japan Trade Statistics](https://www.kaggle.com/zanjibar/japan-trade-statistics)
 
 ## 健康管理
 
